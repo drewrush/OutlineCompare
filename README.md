@@ -16,3 +16,5 @@ When extracting your outlines, using a question mark ? as your delimiter is requ
 The VBA recognizes the question mark as the delimiter for the outlines files.
 
 If you want to use a different delimiter, you will have to modify the VBA code.
+
+Extract the two cubes' outlines to separate folders.
